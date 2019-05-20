@@ -1,4 +1,7 @@
 # vuex-spa
+```
+Latihan single page application dengan state management Vuex
+```
 
 ## Project setup
 ```
